@@ -1,5 +1,6 @@
-# Brilliant-Bananas-Project Inventory Warehouse App
+# BRILLIANT BANANAS INVENTORY WAREHOUSE PROJECT
 An Inventory App for 4 Warehouses. 
+
 ---
 
 
