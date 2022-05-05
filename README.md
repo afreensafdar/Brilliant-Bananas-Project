@@ -9,12 +9,12 @@ An Inventory App for 4 Warehouses.
 - [Introduction](#introduction)
 - [Competencies](#competencies)
 - [Demo](#demo)
-- [Screenshot]
+- [Screenshot](#screenshots)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Features](#features)
 - [Team Constitution](#team constitution)
-- [Git Commands](#git)
+- [Git Commands](#git commands)
 - [UML Diagrams](#UML)
 - [Contact](#contact)
 
