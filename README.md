@@ -9,9 +9,13 @@ An Inventory App for 4 Warehouses.
 - [Introduction](#introduction)
 - [Competencies](#competencies)
 - [Demo](#demo)
+- [Screenshot]
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Features](#features)
+- [Team Constitution](#team constitution)
+- [Git Commands](#git)
+- [UML Diagrams](#UML)
 - [Contact](#contact)
 
 ---
@@ -122,15 +126,6 @@ Stretch Goals:
 
 ---
 
-## Contact
-
-- [Afreen](https://github.com/afreensafdar)
-- [Chad](https://github.com/)
-- [Sharon](https://github.com/)
-- [Lindsey](https://github.com/)
-
----
-
 ## Team Constitution:
 - Be respectful.
 - Look out and help each other.
@@ -173,7 +168,16 @@ Stretch Goals:
                  
 
 ---
-##Requirements
+
+## Contact
+
+- [Afreen](https://github.com/afreensafdar)
+- [Chad](https://github.com/)
+- [Sharon](https://github.com/)
+- [Lindsey](https://github.com/)
+
+---
+## Requirements
 It's recommended to run it on Node version 8+.
 
 $ nvm install v8.7.0
@@ -184,7 +188,8 @@ You should be able to run any file from most browser's console or from the comma
 $ node JavaScript/<file>.js
 
 ---
-##Testing
+  
+## Testing
 To test JavaScript files navigate to the corresponding folder and install the dependencies:
 
 $ cd JavaScript && npm i
