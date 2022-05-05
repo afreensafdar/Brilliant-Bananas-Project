@@ -13,9 +13,9 @@ An Inventory App for 4 Warehouses.
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Features](#features)
-- [Team Constitution](#team constitution)
-- [Git Commands](#git commands)
-- [UML Diagrams](#UML)
+- [Team_Constitution](#team_constitution)
+- [Git_Commands](#git_commands)
+- [UML_Diagrams](#uml_diagrams)
 - [Contact](#contact)
 
 ---
@@ -50,7 +50,7 @@ Each warehouse displays a list of all items in each aisle.The user can view deta
 - Knows how best to communicate using different communication methods and how to adapt appropriately to different audiences
 ---
 
-## Demo-View the Application 
+## Demo
 
 [Demo](https://murmuring-chamber-30533.herokuapp.com/)
 
@@ -126,7 +126,8 @@ Stretch Goals:
 
 ---
 
-## Team Constitution:
+## Team_Constitution
+
 - Be respectful.
 - Look out and help each other.
 - Communicate and don't get stuck on any blockers for long time.
@@ -136,7 +137,7 @@ Stretch Goals:
 
 ---
 
-## Git Commands
+## Git_Commands
 
  **To create branch and pull request**
 - git checkout -b newbranchname (create a new branch for each issue) 
@@ -158,7 +159,8 @@ Stretch Goals:
 
 ---
 
- ## UML Diagrams
+ ## UML_Diagrams
+ 
    - **[Activity Diagram](./UML/activitydiagram/)**
    - **[Class Diagram](./UML/Warehouse%20UML/classdiagram.png/)**
    - **[Wire Frame](./UML/wireframe/)**
