@@ -52,20 +52,44 @@ Each warehouse displays a list of all items in each aisle.The user can view deta
 
 ## Demo
 
-[Demo](https://murmuring-chamber-30533.herokuapp.com/)
+<h1 align="center">
+  Inventory Warehouse App.
+</h1>
+
+<div align="center">
+
+[Warehouse App](https://murmuring-chamber-30533.herokuapp.com/)
+
+  Brilliant Bananas
+    
+</div>
+
+
 
 ---
 
 ## Screenshots
+* Home Page:
+
 ![5.png](./banana-images/banana1.png)
+
+* Inventory Page:
 
 ![1.png](./banana-images/warehouse1.png)
 
+* Item Page:
+
 ![2.png](./banana-images/single-view.png)
+
+* Add Item Form Page:
 
 ![3.png](./banana-images/toy-add.png)
 
+* New Item Page:
+
 ![4.png](./banana-images/toy-add1.png)
+
+* Update Item Form Page:
 
 ![5.png](./banana-images/edit-toy-mag.png)
 
