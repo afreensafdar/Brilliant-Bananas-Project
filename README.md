@@ -126,6 +126,7 @@ After cloning, need to add files that are in gitignore:
 - `node server.js         (npm start)`
 - `npm run dev`
 - NPM Scripts extension to VS code 
+- npm test ( to run jest)
 
 
 ---
